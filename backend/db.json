@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.9
+    },
+    {
+      "id": 2,
+      "name": "Macbook PRO",
+      "price": 12000.9
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13 Pro Max",
+      "price": 9000
+    },
+    {
+      "name\n": "Geladeira Eletrolux",
+      "price": "1850.99",
+      "id": 4
+    }
+  ]
+}
